@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there 👋, I'm Zain Ali
 
-<!--
-**ZainAli5212/ZainAli5212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about AI, Software Development, and building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 I’m currently working on **AI & Full-Stack Projects**
+* 🌱 I’m currently learning **Advanced AI, FastAPI, and System Design**
+* 👯 I’m looking to collaborate on **AI-based applications & open source**
+* 🤔 I’m looking for help with **scaling AI systems & backend architecture**
+* 💬 Ask me about **AI, ML/DL, Python, React**
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Languages: **Python, JavaScript**
+* ⚙️ Frameworks: **FastAPI, Node.js**
+* 🧠 AI/ML: **LLMs, RAG, Vector Databases**
+* 🗄️ Databases: **SQLite, PostgreSQL (learning)**
+* 🔧 Tools: **Git, GitHub, VS Code**
+
+---
+
+## 📌 Featured Projects
+
+* 🔹 **Local RAG Chatbot** – Chat with your own documents using local LLMs
+* 🔹 More projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAli5212\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ZainAli5212\&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: [Zain-Ali5212](https://www.linkedin.com/in/zain-ali5212/)
+* Email: Zainalicc97@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I love building things that actually solve problems 🚀
+
+---
+
+⭐️ From Zain Ali
