@@ -31,18 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAli5212\&show_icons=true\&theme=radical)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ZainAli5212\&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 
 * LinkedIn: [Zain-Ali5212](https://www.linkedin.com/in/zain-ali5212/)
